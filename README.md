@@ -1,2 +1,3 @@
 # Mondrian-Practice
-A project for making Mondrian Pattern that help in understand and make good Practice of CSS Concpet.
+https://abhilasha-222.github.io/Mondrian-Practice/   👈Click Here To see a pattern.
+##A project for making Mondrian Pattern that helps in understanding and making good Practice of CSS Concepts.
